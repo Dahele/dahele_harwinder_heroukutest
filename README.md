@@ -1,11 +1,11 @@
-#Product Promo App
+# Product Promo App
 
-#Netflix
+# Netflix
 
 One simple Web page made and connect using github to Heroku.
 
-#Tool Used: 
+# Tool Used: 
 Visual Studio Code
 Photoshop
 
-By Harwinder Dahele
+Harwinder Dahele
